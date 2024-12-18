@@ -3,7 +3,7 @@
    
 
      "ShowAds": true,
-     "ClickCount": 3,
+     "ClickCount": 1,
      "ShowLoadingAds": true,
 
     "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -23,10 +23,10 @@
  
 
     
-    "priorityInterstitial": "admob",
-    "PriorityBanner": "admob",
-    "PriorityNative": "admob",
-    "PriorityReward":"admob"
+    "priorityInterstitial": "FAN",
+    "PriorityBanner": "FAN",
+    "PriorityNative": "FAN",
+    "PriorityReward":"FAN"
     
    
     
