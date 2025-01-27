@@ -23,10 +23,10 @@
  
 
     
-    "priorityInterstitial": "fan",
-    "PriorityBanner": "fan",
-    "PriorityNative": "fan",
-    "PriorityReward": "fan"
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob",
+    "PriorityReward": "admob"
     
    
     
